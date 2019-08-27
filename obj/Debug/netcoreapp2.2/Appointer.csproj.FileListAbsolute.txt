@@ -1,0 +1,6 @@
+C:\Users\Win10\source\repos\Appointmer\obj\Debug\netcoreapp2.2\Appointer.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Appointmer\obj\Debug\netcoreapp2.2\Appointer.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Appointmer\obj\Debug\netcoreapp2.2\Appointer.RazorAssemblyInfo.cache
+C:\Users\Win10\source\repos\Appointmer\obj\Debug\netcoreapp2.2\Appointer.RazorAssemblyInfo.cs
+C:\Users\Win10\source\repos\Appointmer\obj\Debug\netcoreapp2.2\Appointer.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\Appointmer\obj\Debug\netcoreapp2.2\Appointer.AssemblyInfo.cs
