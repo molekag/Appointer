@@ -24,6 +24,12 @@ namespace Appointer.Models
         public string Team { get; set; }
         [Required(ErrorMessage = "List memebrs of clinic")]
         [StringLength(100)]
+        public string Procedures { get; set; }
+        [Required(ErrorMessage ="List the procedures")]
+        [StringLength(100)]
+        public string Prices { get; set; }
+        [Required(ErrorMessage ="List the prices")]
+        [StringLength(100)]
     }
 }
 
